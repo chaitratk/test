@@ -5,7 +5,7 @@ main() {
 	 factorial();
          reverse();
          palindrome();
-	 biggest3();
+
 	 sum();
 	fibonacci();
 	 sort();
